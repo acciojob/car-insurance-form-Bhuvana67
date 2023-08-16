@@ -1,2 +1,18 @@
+.mystyle{
+	width:200px;
+	height:50px;
+	background-color:pink;
+	margin:10px;
+	padding:10px;
+	box-shadow:4px 4px 5px gray ;
+	border-radius:5%;
+}
 
-/* Your CSS Code here. */
+.my{
+	width:100px;
+	height:50px;
+	border:none;
+	border-radius:5%;
+	box-shadow:4px 4px 5px gray ;
+	background-color:pink;
+}
